@@ -1,0 +1,3 @@
+foo: Foo Text
+demonconfigclient:
+ message: Hello Config Server
