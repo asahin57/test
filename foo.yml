@@ -1,3 +1,7 @@
+spring:
+  config:
+    activate:
+      on-profile: local
 foo: Foo Text
 demonconfigclient:
  message: Hello Config Server
